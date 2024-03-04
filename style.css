@@ -45,7 +45,6 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
     text-align: center;
-    margin: auto; /* Center the button horizontally */
+    margin: auto;
 }
